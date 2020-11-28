@@ -1,0 +1,2 @@
+# hotelrates
+hotel prices

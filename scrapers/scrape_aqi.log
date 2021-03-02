@@ -1,0 +1,257 @@
+DEBUG:parso.cache:pickle loaded: C:\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+DEBUG:parso.cache:pickle loaded: C:\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 7; new: 7
+DEBUG:parso.python.diff:-> code[equal] old[1:6] new[1:6]
+DEBUG:parso.python.diff:copy old[1:6] new[1:6]
+DEBUG:parso.python.diff:-> code[replace] old[7:7] new[7:7]
+DEBUG:parso.python.diff:parse_part from 7 to 7 (to 6 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 7; new: 7
+DEBUG:parso.python.diff:-> code[equal] old[1:6] new[1:6]
+DEBUG:parso.python.diff:copy old[1:6] new[1:6]
+DEBUG:parso.python.diff:-> code[replace] old[7:7] new[7:7]
+DEBUG:parso.python.diff:parse_part from 7 to 7 (to 6 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+INFO:root:getting https://api.waqi.info/feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 7; new: 7
+DEBUG:parso.python.diff:-> code[equal] old[1:5] new[1:5]
+DEBUG:parso.python.diff:copy old[1:5] new[1:5]
+DEBUG:parso.python.diff:-> code[replace] old[6:6] new[6:6]
+DEBUG:parso.python.diff:parse_part from 6 to 6 (to 6 in part parser)
+DEBUG:parso.python.diff:-> code[equal] old[7:7] new[7:7]
+DEBUG:parso.python.diff:parse_part from 7 to 7 (to 6 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 7; new: 66
+DEBUG:parso.python.diff:-> code[equal] old[1:6] new[1:6]
+DEBUG:parso.python.diff:copy old[1:6] new[1:6]
+DEBUG:parso.python.diff:-> code[replace] old[7:7] new[7:66]
+DEBUG:parso.python.diff:parse_part from 7 to 66 (to 65 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 66; new: 6
+DEBUG:parso.python.diff:-> code[equal] old[1:5] new[1:5]
+DEBUG:parso.python.diff:copy old[1:5] new[1:5]
+DEBUG:parso.python.diff:-> code[replace] old[6:66] new[6:6]
+DEBUG:parso.python.diff:parse_part from 6 to 6 (to 5 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /map/bounds/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f&latlng=22.29,113.37,22.03,113.92 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5373/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5372/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5374/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@5375/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9052/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@9888/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@785/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@1540/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@786/?token=7c88a4e043854ed6beeb8e06052616ef3d0fd01f HTTP/1.1" 200 None

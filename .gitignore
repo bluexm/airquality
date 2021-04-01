@@ -1,4 +1,5 @@
 .txt
+data.sqlite
 scrapers/.ipynb_checkpoints/desktop.ini
 scrapers/.ipynb_checkpoints/scraper_aqi-checkpoint.ipynb
 scrapers/.ipynb_checkpoints/scraper_ow-checkpoint.ipynb
